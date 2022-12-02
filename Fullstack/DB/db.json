@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "dicbxk",
+      "emailid": "vbsjx@snsjxx",
+      "id": 2
+    },
+    {
+      "name": "fregj",
+      "emailid": "vbsjx@snsjxx",
+      "id": 3
+    }
+  ]
+}
